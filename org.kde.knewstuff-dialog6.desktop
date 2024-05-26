@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=Qt;KDE;Utility;
+Comment=Showcase for KNewStuff add-on downloading functionality
+Exec=knewstuff-dialog6
+Icon=get-hot-new-stuff
+Name=KNewStuff Dialog
+NoDisplay=true
+SingleMainWindow=true
+Type=Application

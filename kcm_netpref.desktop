@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+NoDisplay=true
+X-KDE-AliasFor=systemsettings
+Exec=systemsettings kcm_netpref
+Icon=preferences-system-network-connection
+Name=Connection Preferences
+
